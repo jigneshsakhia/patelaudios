@@ -1,0 +1,12 @@
+body {
+  padding-bottom: 20px;
+}
+
+.navbar {
+  margin-bottom: 20px;
+}
+
+.logo{
+	font-family: 'Play', sans-serif;
+	font-size:36px;
+}
